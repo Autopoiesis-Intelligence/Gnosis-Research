@@ -1,0 +1,2 @@
+# Branches to delete (owner-confirmed cleanup list, 2026-10-23). Format: <branch> <sha-prefix>
+docs/canonical-branding-readmes 0bed182
