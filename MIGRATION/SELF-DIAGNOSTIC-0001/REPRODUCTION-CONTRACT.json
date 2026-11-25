@@ -3,7 +3,7 @@
   "artifact_kind": "reproducible-diagnostic-evidence",
   "status": "SOURCE-PRESERVED-AWAITING-RUNTIME-VERIFICATION",
   "source": {
-    "repository": "Mikhail-Kucheriavyi-23/Gnosis-Core",
+    "repository": "Autopoiesis-Intelligence/Gnosis-Core",
     "commit": "d42ec57166b706f954d7085dec11a938c31c1336",
     "generator_path": "diagnostic_corpus/generate.py",
     "generator_blob_sha": "41eef2b7fba364732deff4fd128de340e38fbe81"
