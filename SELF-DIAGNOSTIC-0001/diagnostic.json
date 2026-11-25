@@ -3,7 +3,7 @@
   "artifact_type": "diagnostic_migration_contract",
   "status": "DESTINATION_CONTRACT",
   "source": {
-    "repository": "Mikhail-Kucheriavyi-23/Gnosis-Core",
+    "repository": "Autopoiesis-Intelligence/Gnosis-Core",
     "baseline_commit": "d42ec57166b706f954d7085dec11a938c31c1336",
     "generator": "diagnostic_corpus/generate.py",
     "source_path": "diagnostic_corpus/SELF-DIAGNOSTIC-0001/"

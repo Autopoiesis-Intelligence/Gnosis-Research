@@ -4,7 +4,7 @@ This verifier checks the migration contract only. It does not execute Gnosis-Cor
 
 Required invariants:
 - artifact_id is SELF-DIAGNOSTIC-0001
-- source repository is Mikhail-Kucheriavyi-23/Gnosis-Core
+- source repository is Autopoiesis-Intelligence/Gnosis-Core
 - baseline commit is d42ec57166b706f954d7085dec11a938c31c1336
 - expected transitions are 4 total, 3 rejected, 1 accepted
 - recovery and diagnosis are required
