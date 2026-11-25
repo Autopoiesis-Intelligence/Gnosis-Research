@@ -29,7 +29,7 @@ No source deletion is authorized by this file.
 
 ## Provenance
 
-- Source repository: `Mikhail-Kucheriavyi-23/Gnosis-Core`
+- Source repository: `Autopoiesis-Intelligence/Gnosis-Core`
 - Source commit: `d42ec57166b706f954d7085dec11a938c31c1336`
 - Generator blob SHA: `41eef2b7fba364732deff4fd128de340e38fbe81`
 - Destination contract: `MIGRATION/SELF-DIAGNOSTIC-0001/REPRODUCTION-CONTRACT.json`
