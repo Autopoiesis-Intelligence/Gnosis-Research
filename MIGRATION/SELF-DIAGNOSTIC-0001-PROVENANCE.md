@@ -3,7 +3,7 @@
 Status: MIGRATION PREPARATION — source remains in Gnosis-Core.
 
 ## Source
-- Repository: `Mikhail-Kucheriavyi-23/Gnosis-Core`
+- Repository: `Autopoiesis-Intelligence/Gnosis-Core`
 - Source path: `diagnostic_corpus/SELF-DIAGNOSTIC-0001/`
 - Generator: `diagnostic_corpus/generate.py`
 - Source baseline commit: `d42ec57166b706f954d7085dec11a938c31c1336`
